@@ -44,7 +44,7 @@ export const Navigation = () => {
                 item.external ? (
                   <a
                     key={item.path}
-                    href="https://yournewsdaily.netlify.app/"
+                    href="https://news-session-nine.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors"
